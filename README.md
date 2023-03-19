@@ -1,4 +1,4 @@
-# SS
+# Trap Attention
 The implementation of Trap Attention: Monocular Depth Estimation with Manual Traps
 
 ## Environment
