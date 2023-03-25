@@ -6,7 +6,7 @@ The implementation of Trap Attention: Monocular Depth Estimation with Manual Tra
 - pytorch 1.7.1 (>=1.2.0)
 
 ## Checkpoint
-[Google drive]{https://drive.google.com/drive/folders/1kIXg9UP0cVWUq_7Pq20JT9_RyR-PjvkS?usp=sharing}
+[Google drive](https://drive.google.com/drive/folders/1kIXg9UP0cVWUq_7Pq20JT9_RyR-PjvkS?usp=sharing)
 
 ## Citation
 If you use this code for a paper, please cite:
