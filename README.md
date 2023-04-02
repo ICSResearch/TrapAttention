@@ -14,7 +14,7 @@ If you use this code for a paper, please cite:
 @inproceedings{ning2023trap,
   title={Trap Attention: Monocular Depth Estimation with Manual Traps},
   author={Chao Ning and Hongping Gan},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision and Pattern Recognition},
   pages={},
   year={2023}
 }
