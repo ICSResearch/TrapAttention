@@ -1,6 +1,8 @@
 # Trap Attention
 The implementation of Trap Attention: Monocular Depth Estimation with Manual Traps
 
+![](TrapAttention.png)
+
 ## Environment
 - python 3.8
 - pytorch 1.7.1 (>=1.2.0)
