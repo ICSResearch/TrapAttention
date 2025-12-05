@@ -4,7 +4,7 @@ The implementation of Trap Attention: Monocular Depth Estimation with Manual Tra
 ![](TrapAttention.png)
 
 ## Environment
-- python 3.8
+- 
 - pytorch 1.7.1
 
 ## Checkpoint
