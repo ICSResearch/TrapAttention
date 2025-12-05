@@ -41,8 +41,11 @@
 ```text
 Google Drive: https://drive.google.com/drive/folders/1kIXg9UP0cVWUq_7Pq20JT9_RyR-PjvkS?usp=sharing
 ```
-# 🧰 Environment• Python 3.8• PyTorch 1.7.1 (or greater, as long as compatible)
-(You may install other dependencies per requirements.txt in the repo.)▶️ Usage / Quick StartClone the repo, download the checkpoint, and run as follows (for example):
+# 🧰 Environment
+Python 3.8• PyTorch 1.7.1 (or greater, as long as compatible)
+(You may install other dependencies per requirements.txt in the repo.)
+# ▶️ Usage / Quick Start
+Clone the repo, download the checkpoint, and run as follows (for example):
 ```bash
 git clone https://github.com/ICSResearch/TrapAttention.git
 cd TrapAttention
@@ -54,7 +57,8 @@ pip install -r requirements.txt
 ```python
 your_run_script.py --config configs/your_config.yaml  # adjust as needed
 ```
-📝 Tip: Make sure CUDA / GPU memory is sufficient if you run high‑res inputs or large batch size.
+# 📝 Tip
+Make sure CUDA / GPU memory is sufficient if you run high‑res inputs or large batch size.
 # 📚 Citation – If This Code Helps, Please CiteIf you use this code (or parts of it) in your work, please cite:bibtex
 ```bash
 @InProceedings{Ning_2023_CVPR,
