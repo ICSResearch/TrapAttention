@@ -1,6 +1,6 @@
 # Trap Attention
 Implementation of **Trap Attention: Monocular Depth Estimation with Manual Traps**  
-*(A lightweight and tidy repo—should be easy to navigate.)*
+*(A lightweight and tidy repo—easy to follow.)*
 
 ---
 
@@ -9,18 +9,10 @@ Implementation of **Trap Attention: Monocular Depth Estimation with Manual Traps
 - pytorch 1.7.1
 
 ## Checkpoint
-Google Drive (hopefully it opens smoothly):  
+Google Drive:  
 https://drive.google.com/drive/folders/1kIXg9UP0cVWUq_7Pq20JT9_RyR-PjvkS?usp=sharing
 
 ## Citation
-
-
-## Checkpoint
-[Google drive](https://drive.google.com/drive/folders/1kIXg9UP0cVWUq_7Pq20JT9_RyR-PjvkS?usp=sharing)
-
-## Citation
-If you use this code for a paper, please cite:
-```
 @inproceedings{ning2023trap,
   title={Trap Attention: Monocular Depth Estimation with Manual Traps},
   author={Chao Ning and Hongping Gan},
@@ -28,14 +20,13 @@ If you use this code for a paper, please cite:
   pages={},
   year={2023}
 }
-```
 
 ## Acknowledgement
-This repo benefits from awesome works of [Timm](https://github.com/rwightman/pytorch-image-models),
-[Monocular-Depth-Estimation-Toolbox](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox/tree/main/configs/bts),
-[MMSeg](https://github.com/open-mmlab/mmsegmentation)
-and
-[Monocular-Depth-Estimation-Toolbox](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox).
+Thanks to:
+- Timm  
+- Monocular Depth Estimation Toolbox (BTS)  
+- MMSeg  
+- Monocular Depth Estimation Toolbox  
+
 ## other
-
-
+(More details may come later.)
